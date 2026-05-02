@@ -1,0 +1,6 @@
+{
+  "name": "Customer Sentiment Dashboard",
+  "description": "Analyze raw customer reviews to generate sentiment trends, word clouds, and actionable insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
